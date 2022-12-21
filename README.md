@@ -1,3 +1,7 @@
+## 내가 구현한 것
+
+✅ [link](구현한 것.md)
+
 ![test](Assets/README.assets/test.png)
 
 
@@ -72,19 +76,19 @@
         </ul>
     </div>
 </details>
-
 <details>
     <summary>박태호</summary>
     <div markdown="1">
-        <h5>풀스택 개발</h5>
+        <h5>프론트 개발</h5>
         <ul>
-            <li><p>메인 페이지 화면 설계 및 반응형</p></li>
-            <li><p>Accounts 회원가입, 로그인 화면 설계 및 반응형</p></li>
-            <li><p>Algorithm 외부 데이터 수집, 화면 설계 및 반응형</p></li>
-            <li><p>Surveys 통계 구현, 화면 설계 및 반응형</p></li>
+            <li><p>메인 페이지 화면 설계 및 반응형 구현</p></li>
+            <li><p>Accounts 회원가입, 로그인 화면 설계 및 반응형 구현</p></li>
+            <li><p>Algorithm 크롤링, 화면 설계 및 반응형 구현</p></li>
+            <li><p>Surveys 통계 구현, 화면 설계 및 반응형 구현</p></li>
         </ul>
     </div>
 </details>
+
 
 
 
