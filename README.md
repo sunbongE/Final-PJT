@@ -1,6 +1,6 @@
 ## 내가 구현한 것
 
-✅[link](구현한 것.md)
+[link](구현한 것.md)
 
 ![test](Assets/README.assets/test.png)
 
