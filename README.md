@@ -67,7 +67,6 @@
         </ul>
     </div>
 </details>
-
 <details>
     <summary>안동우</summary>
     <div markdown="1">
@@ -78,6 +77,7 @@
         </ul>
     </div>
 </details>
+
 <details>
     <summary>박태호</summary>
     <div markdown="1">
@@ -90,6 +90,7 @@
         </ul>
     </div>
 </details>
+
 
 
 
