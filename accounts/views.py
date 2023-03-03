@@ -201,7 +201,7 @@ def profile(request, user_pk):
             git = -1
     else:
         git = 0
-    
+
     profile_info.git_grass = git
     profile_info.save()
 
@@ -215,7 +215,6 @@ def profile(request, user_pk):
     }
 
     return render(request, "accounts/profile.html", context)
-
 
 
 # 회원 정보 수정
@@ -439,6 +438,7 @@ def follow(request, user_pk):
 # 방명록
 def guestbook(request, user_pk):
     user = get_object_or_404(get_user_model(), pk=user_pk)
+
     gb_articles = user.guestbook.guestbookarticle_set.all().order_by("-pk")
     gb_comments = user.guestbook.guestbookcomment_set.all()
     page = request.GET.get("page", "1")  # 페이지
